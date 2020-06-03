@@ -11,7 +11,7 @@ Bem vindo ao Ecoleta, um projeto desenvolvido na Next Level Week para gerenciar 
 Nesse repositório você irá encontrar links para a aplicação completa:
 
 - [Backend](https://github.com/deborahbaltasar/Ecoleta/tree/master/server)
-- [Frontend](https://github.com/deborahbaltasar/Ecoleta/tree/master/web) ...em desenvolvimento.
+- [Frontend](https://github.com/deborahbaltasar/Ecoleta/tree/master/web)
 - [Mobile](https://github.com/deborahbaltasar/Ecoleta) ...em desenvolvimento.
 
 
