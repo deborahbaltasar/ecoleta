@@ -47,7 +47,6 @@ class PointsController {
             longitude,
             city,
             uf,
-            number,
             items
          } = req.body
      
@@ -62,7 +61,6 @@ class PointsController {
             longitude,
             city,
             uf,
-            number,
         }
          
          const insetedIds = await trx('points').insert(point);
