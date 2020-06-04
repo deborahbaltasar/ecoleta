@@ -4,6 +4,8 @@ import { FiArrowLeft } from 'react-icons/fi';
 import { Map, TileLayer, Marker } from 'react-leaflet';
 import { LeafletMouseEvent } from 'leaflet';
 import axios from 'axios';
+import { toast } from 'react-toastify';
+
 import API from '../../services/api';
 
 import './styles.css';
@@ -154,7 +156,7 @@ const CreatePoint = () => {
                 <img src={logo} alt="Ecoleta" />
 
                 <Link to="/">
-                    <FiArrowLeft />
+                    <FiArrowLeft size={25}/>
                 Voltar para home
             </Link>
             </header>
