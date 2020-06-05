@@ -51,7 +51,7 @@ const Detail = () => {
     }
 
     function handleWhatsapp() {
-        Linking.openURL(`whatsapp://send?phone=${data.point.whatsapp}&text= Tenho interesse na nessa coleta. Poderia me dar mais informações?`)
+        Linking.openURL(`whatsapp://send?phone=${data.point.whatsapp}&text= Tenho interesse na coleta. Como faço para ajudar?`)
     }
 
     if(!data.point) {
