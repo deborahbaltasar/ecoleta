@@ -12,7 +12,7 @@ Nesse repositório você irá encontrar links para a aplicação completa:
 
 - [Backend](https://github.com/deborahbaltasar/Ecoleta/tree/master/server)
 - [Frontend](https://github.com/deborahbaltasar/Ecoleta/tree/master/web)
-- [Mobile](https://github.com/deborahbaltasar/Ecoleta) ...em desenvolvimento.
+- [Mobile](https://github.com/deborahbaltasar/Ecoleta/tree/master/mobile) 
 
 
 <!-- Badges References -->
